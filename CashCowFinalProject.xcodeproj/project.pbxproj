@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A0627D72A6828C6003A3A99 /* learnPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0627D62A6828C6003A3A99 /* learnPage.swift */; };
+		0A0627D92A6828DF003A3A99 /* credit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0627D82A6828DF003A3A99 /* credit.swift */; };
+		0A0627DB2A68295B003A3A99 /* budget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0627DA2A68295B003A3A99 /* budget.swift */; };
+		0A0627DD2A682970003A3A99 /* accounting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0627DC2A682970003A3A99 /* accounting.swift */; };
 		0AF47E6B2A66FD9100B48624 /* CashCowFinalProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF47E6A2A66FD9100B48624 /* CashCowFinalProjectApp.swift */; };
 		0AF47E6D2A66FD9100B48624 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF47E6C2A66FD9100B48624 /* ContentView.swift */; };
 		0AF47E6F2A66FD9700B48624 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AF47E6E2A66FD9700B48624 /* Assets.xcassets */; };
@@ -14,6 +18,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A0627D62A6828C6003A3A99 /* learnPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learnPage.swift; sourceTree = "<group>"; };
+		0A0627D82A6828DF003A3A99 /* credit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = credit.swift; sourceTree = "<group>"; };
+		0A0627DA2A68295B003A3A99 /* budget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = budget.swift; sourceTree = "<group>"; };
+		0A0627DC2A682970003A3A99 /* accounting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = accounting.swift; sourceTree = "<group>"; };
 		0AF47E672A66FD9100B48624 /* CashCowFinalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CashCowFinalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AF47E6A2A66FD9100B48624 /* CashCowFinalProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CashCowFinalProjectApp.swift; sourceTree = "<group>"; };
 		0AF47E6C2A66FD9100B48624 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +61,10 @@
 			children = (
 				0AF47E6A2A66FD9100B48624 /* CashCowFinalProjectApp.swift */,
 				0AF47E6C2A66FD9100B48624 /* ContentView.swift */,
+				0A0627D62A6828C6003A3A99 /* learnPage.swift */,
+				0A0627D82A6828DF003A3A99 /* credit.swift */,
+				0A0627DA2A68295B003A3A99 /* budget.swift */,
+				0A0627DC2A682970003A3A99 /* accounting.swift */,
 				0AF47E6E2A66FD9700B48624 /* Assets.xcassets */,
 				0AF47E702A66FD9700B48624 /* Preview Content */,
 			);
@@ -139,6 +151,10 @@
 			files = (
 				0AF47E6D2A66FD9100B48624 /* ContentView.swift in Sources */,
 				0AF47E6B2A66FD9100B48624 /* CashCowFinalProjectApp.swift in Sources */,
+				0A0627DD2A682970003A3A99 /* accounting.swift in Sources */,
+				0A0627D92A6828DF003A3A99 /* credit.swift in Sources */,
+				0A0627DB2A68295B003A3A99 /* budget.swift in Sources */,
+				0A0627D72A6828C6003A3A99 /* learnPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
